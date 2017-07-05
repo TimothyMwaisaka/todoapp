@@ -1,0 +1,60 @@
+body {
+    background: #526dd5;
+    font-size: 130%;
+}
+
+form {
+    display: inline-block;
+}
+
+h2 {
+    font-family: arial;
+    color: #ffffff;
+}
+
+label {
+    font-family: arial;
+    color: #ffffff;
+}
+
+#btn:hover {
+    cursor: pointer;
+}
+
+.todos {
+    font-family: arial;
+    color: #ffffff;
+    overflow: hidden;
+    width: 200px;
+}
+
+.todos:hover {
+    cursor: pointer;
+}
+
+#btn {
+    display: inline-block;
+    height: 30px;
+    width: 70px;
+    background-color: #ff0000;
+    font-family: arial;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+}
+
+input:focus {
+    background: #d0e6f5;
+}
+
+input {
+    padding: 5px;
+    font-family: helvetica;
+    font-size: 12px;
+}
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
