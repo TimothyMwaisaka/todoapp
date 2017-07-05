@@ -21,6 +21,7 @@ Open terminal/cmd and rum
 npm install flexcodes_todoapp
 ```
 The todoapp will be created inside node_modules directory
+or you can clone from github
 
 ## Running
 
@@ -28,8 +29,8 @@ Open index.html using any browser
 
 ## Built With
 
-* [HTML5]
-* [CSS3]
+* [HTML5](https://www.w3.org/TR/html5/)
+* [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
 * [jQuery](https://jquery.com/)
 * [jQuery UI 1.11.2](https://jqueryui.com/)
 
@@ -39,4 +40,4 @@ Open index.html using any browser
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the LICENSE file for details
