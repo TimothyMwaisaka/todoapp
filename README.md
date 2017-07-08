@@ -6,26 +6,39 @@ A simple javascript todo app
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+## Prerequisites
 
 node.js & npm
 
 
-### Installing
+## Installing
 
 Here is how to install todoapp
 
-Open terminal/cmd and rum
+Open terminal/cmd and run
 
 ```
 npm install flexcodes_todoapp
 ```
 The todoapp will be created inside node_modules directory
-or you can clone from github
 
 ## Running
 
-Open index.html using any browser
+```
+cd node_modules/flexcodes_todoapp
+```
+
+```
+npm install -g serve
+```
+
+```
+serve
+```
+
+## OR
+
+You can clone this repo and open index.html using any browser
 
 ## Built With
 
@@ -36,8 +49,12 @@ Open index.html using any browser
 
 ## Authors
 
-* **Timothy mwaisaka** - [TimothyMwaisaka](https://github.com/TimothyMwaisaka)
+### Timothy mwaisaka
+
+**Github** - [https://github.com/TimothyMwaisaka](https://github.com/TimothyMwaisaka)
+
+**Email** - [timothymwaisaka@gmail.com](timothymwaisaka@gmail.com)
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - Or see the LICENSE file for details
